@@ -10,3 +10,6 @@ Kafka is a distributed processing platform. Kafka is an open source platform dev
 ## References
 * [Apache Kafka Official Website](https://kafka.apache.org/) - https://kafka.apache.org/
 * [Apache Kafka Wikipedia page](https://en.wikipedia.org/wiki/Apache_Kafka) - https://en.wikipedia.org/wiki/Apache_Kafka
+* [Apache Zookeeper Official Website](https://zookeeper.apache.org/) - https://zookeeper.apache.org/
+* [Apache Zookeeper Wiki](https://cwiki.apache.org/confluence/display/ZOOKEEPER/Index) - https://cwiki.apache.org/confluence/display/ZOOKEEPER/Index
+* [Zookeeper documentation](https://zookeeper.apache.org/doc/trunk/) - https://zookeeper.apache.org/doc/trunk/
