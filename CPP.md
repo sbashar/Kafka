@@ -4,7 +4,7 @@ Notes on C++.
 ## History
 * Bjarne Stroustrup developed C++ in 1979 in Bell Labs.
 
-## Commands
+## Compile and Run
 Run normal C++ code using the following command:
     
     g++ -Wall hello_world.cpp -o hello_world
