@@ -14,5 +14,8 @@ A repository with notes on programming languages, frameworks and technologies.
 ## Technology
 * [Kafka](KAFKA.md)
 
+## Operating System
+* [Linux](LINUX.md)
+
 ## Tools
 * [Vim](VIM.md)
