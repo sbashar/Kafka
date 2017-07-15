@@ -40,3 +40,14 @@ Notes on vim.
 * @a - play the macro in the a register
 * gt - Go to next tab
 * gT - Go to previous tab
+
+## Plugin Commands
+### Vundle
+* PluginInstall - Install plugin
+* PluginUpdate - Update plugin
+* PluginClean - Clean unused plugin
+
+### Ctrlp
+* Starts with ctrl + p
+* ctrl + t - open code in a new tab
+* ctrl + v - open code in a vertical split
