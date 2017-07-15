@@ -25,7 +25,7 @@ Important flags:
  
     ./hello.out
     
-For most of my code I use this [GNU make](https://www.gnu.org/software/make/manual/make.html):
+For most of my code I use this [GNU make](https://www.gnu.org/software/make/manual/make.html) makefile:
 
     CC := $(CXX)
     
