@@ -105,3 +105,8 @@ For most of my code I use this [GNU make](https://www.gnu.org/software/make/manu
       return 0;
     }
     ```
+## Memory Management
+* Static Memory Allocation
+* Automatic Memory Allocation
+* Dynamic Memory Allocation
+* Garbage Collection
