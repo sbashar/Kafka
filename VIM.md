@@ -38,16 +38,17 @@ Notes on vim.
 * qa - save a macro in the a register
 * q - quit saving macro
 * @a - play the macro in the a register
+* ~ - Toggle case to make letters capital or small.
 * gt - Go to next tab
 * gT - Go to previous tab
-* :tabs         list all tabs including their displayed windows
-* :tabm 0       move current tab to first
-* :tabm         move current tab to last
-* :tabm {i}     move current tab to position i+1
-* :tabn         go to next tab
-* :tabp         go to previous tab
-* :tabfirst     go to first tab
-* :tablast      go to last tab
+* :tabs - list all tabs including their displayed windows
+* :tabm 0 - move current tab to first
+* :tabm - move current tab to last
+* :tabm {i} - move current tab to position i+1
+* :tabn - go to next tab
+* :tabp - go to previous tab
+* :tabfirst - go to first tab
+* :tablast - go to last tab
 
 ## Plugin Commands
 ### Vundle
