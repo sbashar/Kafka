@@ -1,7 +1,9 @@
-# Vim 
+# Vim
+
 Notes on vim.
 
 ## Commands
+
 * ctrl + e - scroll down
 * ctrl + y - scroll up
 * ctrl + f - scroll down one page
@@ -51,12 +53,15 @@ Notes on vim.
 * :tablast - go to last tab
 
 ## Plugin Commands
+
 ### Vundle
+
 * PluginInstall - Install plugin
 * PluginUpdate - Update plugin
 * PluginClean - Clean unused plugin
 
 ### Ctrlp
+
 * Starts with ctrl + p
 * ctrl + t - open code in a new tab
 * ctrl + v - open code in a vertical split

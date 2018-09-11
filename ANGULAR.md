@@ -1,2 +1,0 @@
-# Angular 
-Notes on Angular.
