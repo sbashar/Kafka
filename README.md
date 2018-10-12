@@ -18,3 +18,4 @@ A repository with notes on programming languages, frameworks and technologies.
 ## Tools
 
 * [Vim](VIM.md)
+* [Git](GIT.md)
